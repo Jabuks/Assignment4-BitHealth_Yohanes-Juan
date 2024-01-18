@@ -2,7 +2,7 @@ const url = 'https://covid-193.p.rapidapi.com/statistics?country='
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '0c54b457e9msh8e48718d964c669p1a70f0jsna2c5ce11048b',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'covid-193.p.rapidapi.com'
     }
 };
